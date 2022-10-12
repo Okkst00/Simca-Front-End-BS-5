@@ -133,8 +133,7 @@ input[type="color"]:focus,
 
 .container .row .credits {
     margin-left: -80px; 
-    border-top-right-radius: 20px; 
-    border-bottom-right-radius: 20px;
+    border-radius: 20px; 
     background: -webkit-linear-gradient(left, #bc1d77 0%, #f546aa 12%, rgb(255, 128, 24) 100%);
 }
 
