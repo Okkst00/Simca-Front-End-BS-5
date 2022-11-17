@@ -21,15 +21,15 @@
             <div class="col col-lg-6 col-md-6 col-10  mx-auto">
                 <div class="card p-lg-5 p-md-3 p-0 border-0 mb-lg-0 mb-md-0 mb-5">
                     <h1 class="mb-5 main-head">Simca'<span>[ Simaka Calendar ]</span> </h1>
-                    <form>
+                    <form method="GET" action="get-simaka.html">
                         <div class="mb-3 text-start">
                             <label for="nim" class="form-label"><i class="bi bi-person-fill"></i> Nim</label>
-                            <input type="text" class="form-control ps-3 pe-3 pb-lg-2" id="nim">
+                            <input type="text" class="form-control ps-3 pe-3 pb-lg-2" id="nim" name="nim" required>
                         </div>
                         <div class="mb-3 text-start">
                             <label for="password" class="form-label"><i class="bi bi-key-fill"></i> Password</label>
                             <i class="bi bi-eye-slash ms-auto" id="togglePassword"></i>
-                            <input type="password" class="form-control ps-3 pe-3 pb-lg-2" id="password">
+                            <input type="password" class="form-control ps-3 pe-3 pb-lg-2" id="password" name="password" required>
                         </div>
                         <div id="option" class="form-text mt-3">Masih bingung apa itu Simca'? <a href="" class="learn"  data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom" aria-controls="offcanvasBottom"> Pelajari <i class="bi bi-chevron-double-right"></i> </a></div>
                         <button type="submit" class="btn px-5 pb-2 shadow-sm mt-4" data-aos="fade-up" data-aos-delay="400">Masuk <i class="bi bi-check-circle-fill"></i></button>
