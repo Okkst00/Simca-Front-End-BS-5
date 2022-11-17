@@ -11,11 +11,6 @@ togglePassword.addEventListener("click", function () {
 });
 
 
-const form = document.querySelector("form");
-form.addEventListener('submit', function (e) {
-    e.preventDefault();
-});
-
 // document.addEventListener('contextmenu', 
 //  event => event.preventDefault()
 // );
