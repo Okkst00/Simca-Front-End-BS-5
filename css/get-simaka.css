@@ -78,20 +78,14 @@ body {
     font-size: 17px;
 }
 
-.container .row .col form .smt-drop #bulan {
+.container .row .col form .bln-drop #bulan {
     width: 40%;
     border-radius: 20px;
     color: black;
     font-size: 16px;
 }
 
-.container .row .col form .smt-drop #bulan .opts{
-    font-weight: bold;
-    color: black;
-    font-size: 17px;
-}
-
-.container .row .col form .smt-drop #bulan .opts{
+.container .row .col form .bln-drop #bulan .opts{
     font-weight: bold;
     color: black;
     font-size: 17px;
@@ -306,13 +300,13 @@ input[type="color"]:focus,
         font-size: 16px;
     }
 
-    .container .row .col form .smt-drop #bulan .opts{
+    .container .row .col form .bln-drop #bulan .opts{
         font-weight: bold;
         color: black;
         font-size: 17px;
     }
 
-    .container .row .col form .smt-drop #bulan .opts{
+    .container .row .col form .bln-drop #bulan .opts{
         font-weight: bold;
         color: black;
         font-size: 17px;
@@ -440,14 +434,14 @@ input[type="color"]:focus,
         font-size: 17px;
     }
     
-    .container .row .col form .smt-drop #bulan {
+    .container .row .col form .bln-drop #bulan {
         width: 40%;
         border-radius: 20px;
         color: black;
         font-size: 16px;
     }
     
-    .container .row .col form .smt-drop #bulan .opts{
+    .container .row .col form .bln-drop #bulan .opts{
         font-weight: bold;
         color: black;
         font-size: 17px;
@@ -541,14 +535,14 @@ input[type="color"]:focus,
         font-size: 17px;
     }
     
-    .container .row .col form .smt-drop #bulan {
+    .container .row .col form .bln-drop #bulan {
         width: 40%;
         border-radius: 20px;
         color: black;
         font-size: 16px;
     }
     
-    .container .row .col form .smt-drop #bulan .opts{
+    .container .row .col form .bln-drop #bulan .opts{
         font-weight: bold;
         color: black;
         font-size: 17px;
